@@ -1,0 +1,10 @@
+C:\Users\Marlo\source\repos\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\Marlo\source\repos\Semaforo\bin\Debug\Semaforo.exe
+C:\Users\Marlo\source\repos\Semaforo\bin\Debug\Semaforo.pdb
+C:\Users\Marlo\source\repos\Semaforo\obj\Debug\Semaforo.csproj.AssemblyReference.cache
+C:\Users\Marlo\source\repos\Semaforo\obj\Debug\Semaforo.Form1.resources
+C:\Users\Marlo\source\repos\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+C:\Users\Marlo\source\repos\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.cache
+C:\Users\Marlo\source\repos\Semaforo\obj\Debug\Semaforo.csproj.CoreCompileInputs.cache
+C:\Users\Marlo\source\repos\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\Marlo\source\repos\Semaforo\obj\Debug\Semaforo.pdb
